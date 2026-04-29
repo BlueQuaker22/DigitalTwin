@@ -1,0 +1,1 @@
+Code to create your cusatomized digital twin that has access to a knowledge base to be able to answer questions about you. It also has access to tools to be able to send you notifications, roll dice and generate randomized responses based on the results etc. A version of this code is running on HuggingFace: https://huggingface.co/spaces/dchandan22/MyDigitalTwin
